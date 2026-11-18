@@ -1,0 +1,39 @@
+# 首次提交候选。新增路径按需在下方列出。
+/*
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/LICENSE
+!/LICENSE.md
+!/整合版/
+/整合版/*
+!/整合版/开始刷角标.bat
+!/整合版/刷晋升.bat
+!/整合版/测试与设置增强触控.bat
+!/整合版/测试与设置GPU加速.bat
+
+# 用户文档
+!/整合版/说明/
+/整合版/说明/*
+!/整合版/说明/使用说明.md
+!/整合版/说明/晋升策略.md
+
+# 源码和运行数据。EXE、运行库和实际设置留在本机。
+!/整合版/程序/
+/整合版/程序/*
+!/整合版/程序/launcher.ps1
+!/整合版/程序/mumu_touch.py
+!/整合版/程序/mumu_touch.example.json
+!/整合版/程序/battle_screen.py
+!/整合版/程序/field_slot_digits.json
+!/整合版/程序/level1_promotion.py
+!/整合版/程序/ocr_gpu.py
+!/整合版/程序/promotion_roster.json
+!/整合版/程序/promotion_runner.py
+!/整合版/程序/settings.example.json
+!/整合版/程序/tiles.json
+
+# 晋升策略单元测试
+!/整合版/测试/
+/整合版/测试/*
+!/整合版/测试/test_level1_promotion.py

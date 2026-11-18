@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "emulator_path": "",
+  "instance_index": null,
+  "package_name": "auto",
+  "fast_capture": true,
+  "move_interval": 0.016
+}
